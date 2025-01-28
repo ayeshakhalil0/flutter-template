@@ -1,4 +1,4 @@
-## Welcome to the FlutterFlow Toolkit 🚀  
+## Welcome to the Flutter Toolkit 🚀  
 A comprehensive starter template designed for building beautiful, responsive, and dynamic Flutter applications with ease using **FlutterFlow**.  
 
 This toolkit empowers you to:  
@@ -11,4 +11,4 @@ This toolkit empowers you to:
 - Best practices for page navigation, API integration, and Firebase setup.  
 - Sample components and templates to accelerate your workflow.  
 
-Start building your app today with **FlutterFlow**—focus on innovation while we handle the groundwork!  
+Start building your app today with **Flutter**—focus on innovation while we handle the groundwork!  
